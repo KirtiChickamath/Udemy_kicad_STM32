@@ -11,7 +11,7 @@ This project is a simple STM32 based board designed as part of learning and prac
 ## Images
 
 ### Schematic
-[IMAGES/schematic.png](https://github.com/KirtiChickamath/Udemy_kicad_STM32/blob/main/IMAGES/schematic.png)
+![IMAGES/schematic.png](https://github.com/KirtiChickamath/Udemy_kicad_STM32/blob/main/IMAGES/schematic.png)
 
 ### PCB Layout
 [IMAGES/layout_top.png](https://github.com/KirtiChickamath/Udemy_kicad_STM32/blob/main/IMAGES/layout_top.png)
